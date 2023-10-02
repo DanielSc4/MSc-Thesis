@@ -307,4 +307,5 @@ TSWLatexianTemp*
 ########################################################################
 
 .DS_Store
-
+# any attributions (+200 MB files)
+**/*attributions*
